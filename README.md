@@ -16,64 +16,71 @@ Teniendo en cuenta el material de clase, responda las siguientes preguntas:
 
 1. ¿Por qué el desarrollo de software no puede realizarse simplemente comenzando a programar?
 
-   R:
+   R: Dependiendo del caso es indispensable planear de ante mano lo que se necesita para poder realizar el desarrollo de manera efectiva manteniendo esos requisitos en mente
 
 2. ¿Qué significa que un desarrollo sea dirigido por un plan?
 
-   R:
+   R: Significa que el desarrollo se realiza guiado por etapas claras, separadas y organizadas
 
 3. ¿Cuáles son las ventajas de utilizar un plan de desarrollo?
 
-   R:
+   R: Sirve para poder estructurar la base del proyecto de manera fuerte en caso de necesitar mucha complejidad a futuro, para poder usar el tiempo y recursos de manera efectivas sabiendo que es lo necesario a realizar, y para organizar el flujo de trabajo.
 
 4. ¿Qué críticas se hacen a los modelos tradicionales de desarrollo?
 
-   R:
+   R: Suelen ser criticados por su rigidez y poca adaptabilidad a cambios, lo que los hace ineficientes en casos donde el proyecto sea dinamico y sea necesario iterar de manera rapida
 
 5. ¿Por qué en la práctica muchas organizaciones combinan metodologías ágiles y modelos dirigidos por un plan?
 
-   R: 
+   R: Existen escenarios donde los enfoques tradicionales son efectivos, pero combinarlos con metodologias agiles hacen el trabajo aun mas efectivo debido a la naturaleza del proyecto y del desarrollo de software.
 
 
 ### Actividad 2
 
-| Etapa                         | Descripción |
-| ----------------------------- | ----------- |
-| Análisis                      |             |
-| Diseño                        |             |
-| Codificación                  |             |
-| Prueba                        |             |
-| Puesta en marcha / Despliegue |             |
-
+| Etapa                         | Descripción                                                                              |
+| ----------------------------- | ---------------------------------------------------------------------------------------- |
+| Análisis                      | Los analistas llevan a cabo un relevamiento exhaustivo de la organización para identificar sus necesidades y los problemas que deben abordarse mediante un sistema informático. El resultado de este proceso es la elaboración de un documento que, siguiendo reglas y convenciones específicas, capture todos los requerimientos de los usuarios. Asimismo, se deben identificar y tener en cuenta las restricciones y limitaciones pertinentes |
+| Diseño                        | Se elabora el diseño de una solución informática que aborde los problemas identificados, teniendo en cuenta los requerimientos obtenidos en la fase anterior y respetando las restricciones establecidas. Se genera una documentación detallada y técnica que permita a los programadores construir el código de manera efectiva. |
+| Codificación                  | Los programadores llevan a cabo la etapa de codificación siguiendo las especificaciones del diseño, donde construyen el código del software empleando un lenguaje de programación determinado |
+| Prueba                        | La etapa de prueba se encarga de identificar posibles errores en el sistema antes de su puesta en uso, con el objetivo de reportarlos y corregirlos. |
+| Puesta en marcha / Despliegue | Se realiza la instalación del programa en las computadoras del cliente y se proporciona capacitación a los usuarios para que puedan utilizar eficientemente el nuevo software. |
 
 * Luego responda:
   * ¿En qué etapa se obtienen los requerimientos del sistema?
     
-    R:
+    R: Se capturan por los analistas en la etapa "Analisis"
   * ¿En qué etapa se construye el programa?
 
-    R:
+    R: Se construye por los programadores en la etapa "Codificacion"
   * ¿Cuál es el objetivo principal de las pruebas?
     
-    R:
+    R: Encontrar y arreglar errores para "endurecer" el programa
 ### Actividad 3
-Ordene las siguientes etapas según corresponda  Diseño
--al modelo lineal secuencial:
+Ordene las siguientes etapas según corresponda al modelo lineal secuencial:
 - Codificación
 - Prueba
 - Diseño
 - Despliegue
 - Ingeniería de requerimientos
+
 ---
+
 R:
+- Ingeniería de requerimientos
+- Diseño
+- Codificación
+- Prueba
+- Despliegue
+
+---
 
 - Luego responder:
   * ¿Qué problema puede surgir si hay un error en una etapa inicial?
     
-    R:
+    R: El problema podria convertirse en un error grave dificil de arreglar si no se maneja temprano en el diseño o las pruebas del proyecto
   * ¿Por qué este modelo puede ser problemático cuando los requerimientos cambian?
 
-    R:
+    R: Al estar estructurado linearlmente, si los requerimientos cambian se debe empezar de una etapa temprana para volver a seguir el plan
 ### Actividad 4
 Complete la siguiente tabla.
 | Modelo      | Característica principal | Cuándo conviene usarlo |
