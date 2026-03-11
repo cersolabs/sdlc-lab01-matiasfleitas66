@@ -85,15 +85,20 @@ R:
 Complete la siguiente tabla.
 | Modelo      | Característica principal | Cuándo conviene usarlo |
 | ----------- | ------------------------ | ---------------------- |
-| Cascada     |                          |                        |
-| Incremental |                          |                        |
-| Prototipos  |                          |                        |
-| Espiral     |                          |                        |
-| RAD         |                          |                        |
+| Cascada     | Es simple, sencillo y probado. Mejor que no usar ninguno | Debido a sus desventajas, conviene usarlo cuando se descarten los otros modelos si es que no son mas convenientes para el proyecto a desarrollar |
+| Incremental | Requiere menos personal concurrente y los recursos se asignan mejor en el tiempo | En casos donde sea conveniente construir y entregar el sistema en partes |
+| Prototipos  | Se enfoca en mostrar "maquetas" no funcionales al cliente para obtener mas requerimientos o cambios | En casos donde sea conveniente o util que el cliente pueda comprender y visualizar como funcionara el proyecto durante o antes del desarrollo |
+| Espiral     | Durante el desarrollo se mantienen en cuenta activamente diferentes partes del proyecto como la seguridad | En casos donde sea conveniente entregas sucesivas, o, el proyecto viva en un entorno riesgoso y con mucha incertidumbre |
+| RAD         | El software se divide en partes que puedan ser desarrolladas por varios equipos que trabajan en forma concurrente | En casos donde sea conveniente generar aplicaciones con mayor velocidad que los desarrollos tradicionales |
 
 - Responder:
   - ¿Qué modelo es más adecuado cuando existen muchos riesgos en el proyecto?
+
+    R: El modelo espiral.
+  
   - ¿Qué modelo ayuda a comprender mejor los requerimientos del usuario?
+
+    R: El modelo de prototipos.
     
 ### Actividad 5 – Caso práctico
 Una empresa quiere desarrollar un sistema de ventas para un pequeño comercio.
