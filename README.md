@@ -113,13 +113,15 @@ Una empresa quiere desarrollar un sistema de ventas para un pequeño comercio.
 
 - ¿Qué modelo de desarrollo recomendaría? 
 
-  R: 
+  R: Desarrollo Rápido de Aplicaciones
+
 - Justifique su respuesta.
 
-  R:
+  R: Usaría este modo debido a las características del proyecto (tiempo limitado, requerimientos claros y sistema relativamente pequeño), ya que esas características serían debilidades en otros modelos.
+
 - ¿Qué etapas principales tendría el desarrollo?
 
-  R:
+  R: Ingeniería de requerimientos. Diseño. Codificación. Prueba y Despliegue.
 
 ### Actividad 7 – Verdadero o Falso
 Indique si las siguientes afirmaciones son Verdaderas (V) o Falsas (F). ***marcar con x la verdaderas, dejar en blanco las falsas***
